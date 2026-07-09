@@ -1,0 +1,12 @@
+streamlit==1.32.0
+python-dotenv==1.0.1
+gspread==6.0.2
+google-auth==2.27.0
+google-cloud-storage==2.14.0
+requests==2.31.0
+moviepy==1.0.3
+Pillow==10.2.0
+numpy==1.26.4 
+python-magic-bin==0.4.14
+opencv-python==4.8.0.76
+ffmpeg-python==0.2.0 
